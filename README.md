@@ -20,7 +20,7 @@ If you wish to test a differnt input, please update this file before running the
 The main function for the applicaiton can be found at the following [location](src/KWIC.java#L9). 
 
 The changes are accomplished by the following methods used and can be found at the following locations:
-- [readLinesFromFile] (src/KWIC.java#L23)
-- [circularShift] (src/KWIC.java#L37)
+- [readLinesFromFile](src/KWIC.java#L23)
+- [circularShift](src/KWIC.java#L37)
 - [alphabetizing](src/KWIC.java#L62)
 - [displayKWICIndex](src/KWIC.java#L84)
