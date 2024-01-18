@@ -13,7 +13,10 @@ The workspace contains one folder, where:
 This program works by reading an input file and will produce teh output within the terminal. This output should be aphabetically sorted and circular shifted on each line.
 
 There are currently 1 input files to choose from:
-- [input.txt](src/input.txt)
+- [input.txt](src/input.txt
+
+There is currently an output.txt files located within the src folder. This file is the output that the user should see within the terminal upon running the program:
+- [output.txt](src/output.txt)
 
 If you wish to test a differnt input, please update this file before running the program.
 
